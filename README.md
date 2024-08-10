@@ -1,2 +1,2 @@
 # Covid-Data-Analysis 
-# Shaastra Techathon - kaggle
+# Shaastra Techathon AI / ML - kaggle
